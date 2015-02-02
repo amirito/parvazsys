@@ -52,5 +52,7 @@ body{
 	border-radius:0;
 	}
 .footer{
-	border-top:solid 1px #428bca;
+	border-top:solid 2px #0d2b81;
+	color:#FFF;
+	background-color:#333;
 	}
