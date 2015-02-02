@@ -12,7 +12,7 @@
 <iframe src="banner.html" style="width:1140px;height:316px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 <br>
 <!-- End banner body -->
-<div class="row-fluid col-lg-12">
+<div class=" col-lg-8">
       
        		<div class="row panel-primary panel sample">
              <div class="panel-heading"><span class="glyphicon glyphicon-hand-left"></span> <strong>نمونه کارها</strong></div>
@@ -27,4 +27,11 @@
         
        
         </div>
+<div class="col-lg-4">
+	<a class=" pull-right jumbotron thumbnail text-center" href="http://85.133.232.3/IBSng/users/" target="_blank">
+    	<h3> شارژ سرویس </h3>
+    	<img src="images/charge.jpg" class="img-responsive img-circle" >
+    </a>
+</div>
+<div class="clearfix"></div>
         
